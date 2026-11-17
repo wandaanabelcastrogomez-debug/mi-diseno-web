@@ -1,0 +1,31 @@
+MI DISEÑO WEB - INSTRUCCIONES
+
+ARCHIVOS:
+- index.html: página de inicio
+- html.html: lección de HTML
+- css.html: lección de CSS
+- javascript.html: lección de JavaScript
+- practicas.html: ejercicios interactivos
+- css/estilos.css: diseño adaptable a computadora y celular
+- js/app.js: menú, instalación y prácticas
+- manifest.json y service-worker.js: permiten instalar y usar el sitio sin conexión después de la primera carga.
+
+PUBLICAR EN GITHUB:
+1. Descomprime este ZIP.
+2. Entra en GitHub y crea un repositorio nuevo, por ejemplo mi-diseno-web.
+3. Sube TODOS los archivos y carpetas manteniendo su estructura.
+4. En el repositorio abre Settings > Pages.
+5. En Build and deployment selecciona Deploy from a branch.
+6. Selecciona la rama main y la carpeta /(root), y pulsa Save.
+7. Espera a que GitHub Pages publique el sitio. La dirección será parecida a https://TU-USUARIO.github.io/mi-diseno-web/
+
+INSTALAR EN EL CELULAR:
+1. Abre la dirección publicada en Chrome (Android) o el navegador compatible.
+2. Espera a que cargue y usa el menú del navegador > Instalar aplicación o Agregar a pantalla de inicio.
+3. En iPhone/iPad, abre en Safari > Compartir > Añadir a pantalla de inicio.
+La instalación PWA requiere que el sitio esté publicado por HTTPS; abrir los archivos directamente desde el equipo no activa todas las funciones.
+
+IMPORTANTE:
+- No cambies los nombres de los archivos enlazados sin actualizar los enlaces.
+- Sube las carpetas css, js e img completas.
+- GitHub Pages aloja el sitio; no es necesario instalar XAMPP para esta aplicación estática.
