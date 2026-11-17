@@ -1,0 +1,22 @@
+{
+  "name": "Mi Diseño Web",
+  "short_name": "Mi Diseño Web",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f5fc",
+  "theme_color": "#5636a5",
+  "description": "Aprende diseño web paso a paso.",
+  "icons": [
+    {
+      "src": "img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
